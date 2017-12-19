@@ -1,0 +1,26 @@
+baseurl = "https://example.com"
+languageCode = "zh-TW"
+defaultContentLanguage = "zh"
+title = "87"
+theme = "hugo-theme-dream"
+
+copyright = "Copyright (c) 2017, g1eny0ung; all rights reserved."
+
+# enableRobotsTXT = true
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+[params]
+  author = "88"
+#05360233張育誠
+  motto = "6666669"
+  # description = ""
+  avatar = "/img/011.jpg"
+  
+  # email = ""
+  # github = ""
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
